@@ -192,15 +192,7 @@ footer h3 {
   overflow: auto;
   color: rgba(201, 18, 122, 0.932);
 }
-.Gallery {
-  margin: 5px;
-  float: left;
-  width: 250px;
-}
-.Gallery img {
-  width: 120%;
-  border-width: 50px;
-}
+
 .container h2 {
   font-size: 50px;
   text-align: center;
